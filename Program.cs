@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace TryCatch
 {
@@ -36,12 +37,16 @@ namespace TryCatch
 
         // Create an AddressBook and add some contacts to it
         AddressBook addressBook = new AddressBook();
+        try{
         addressBook.AddContact(bob);
         addressBook.AddContact(sue);
         addressBook.AddContact(juan);
 
         // Try to addd a contact a second time
         addressBook.AddContact(sue);
+        }catch{
+            Console.WriteLine("you cannot added something at the sametime");
+        }
 
 
         // Create a list of emails that match our Contacts
@@ -58,11 +63,15 @@ namespace TryCatch
         //  Search the AddressBook by email and print the information about each Contact
         foreach (string email in emails)
         {
+            try{
             Contact contact = addressBook.GetByEmail(email);
             Console.WriteLine("----------------------------");
             Console.WriteLine($"Name: {contact.FullName}");
             Console.WriteLine($"Email: {contact.Email}");
             Console.WriteLine($"Address: {contact.Address}");
+            }catch{
+                Console.WriteLine("This email does not exsit. You can try again!!!");
+            }
         }
     }
 } 

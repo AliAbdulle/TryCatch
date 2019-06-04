@@ -2,3 +2,10 @@
 /alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.csproj.CoreCompileInputs.cache
 /alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.AssemblyInfoInputs.cache
 /alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/bin/Debug/netcoreapp2.2/TryCatch.deps.json
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/bin/Debug/netcoreapp2.2/TryCatch.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/bin/Debug/netcoreapp2.2/TryCatch.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/bin/Debug/netcoreapp2.2/TryCatch.dll
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/bin/Debug/netcoreapp2.2/TryCatch.pdb
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.dll
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.pdb
