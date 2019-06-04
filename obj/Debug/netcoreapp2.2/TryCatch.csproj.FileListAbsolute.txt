@@ -1,0 +1,4 @@
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/TryCatch/obj/Debug/netcoreapp2.2/TryCatch.AssemblyInfo.cs
